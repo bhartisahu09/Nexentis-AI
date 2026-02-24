@@ -11,7 +11,7 @@ class SearchCubit  extends Cubit<SearchState>{
 
   emit(SearchLoadingState()); 
 
-  String apiKey = "AIzaSyB8QstIIKpv2GtrJYMJc_ppK4VfXXZooDY";
+  String apiKey = "";
   String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=$apiKey";
  
   Map<String, dynamic> bodyParams = 
