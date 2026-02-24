@@ -9,7 +9,8 @@ Nexentis AI is a Flutter-based cross-platform AI chat application powered by Goo
 
 ## [Live Preview](https://bhartisahu.netlify.app/) 👀
 
-<img src="assets/nexentisAi.mp4" width="100%"></img>
+<!-- <img src="assets/nexentisAi.mp4" width="100%"></img> -->
+<video src="assets/nexentisAi.mp4" width="100%" controls></video>
 
 ## Overview
 
